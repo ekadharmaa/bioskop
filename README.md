@@ -12,7 +12,7 @@ Sebelum menjalankan projek ini, ada beberapa aplikasi/software yang perlu di-ins
 Sebelum menjalankan langkah-langkah dibawah ini, jalankan terlebih dahulu MySQL dan Apache melalui XAMPP control panel yang sudah ter-install. Jalankan perintah-perintah di bawah ini dengan menggunakan terminal Git Bash.
 1. Clone project ke local PC anda dengan menggunakan terminal Git Bash.
 ```
-git clone https://github.com/ilhamydn17/seaAcd23.git
+git clone https://github.com/ekadharmaa/bioskop.git
 ```
 2. Jalankan Git Bash pada folder repositori project yang sudah di clone, kemudian update composer.
 ```
@@ -41,8 +41,8 @@ php artisan serve
 Note
 ```
 *). Untuk melakukan login:
-    username => ilham_
-    password => ilham123,
+    username => admin
+    password => admin,
     atau dapat dilihat pada file UserSeeder.php
 *). Anda juga dapat melakukan registrasi untuk membuat data akun baru.
 ```
