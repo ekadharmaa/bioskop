@@ -102,7 +102,7 @@
             {{-- FOOTER --}}
             <footer class="main-footer">
                 <div class="text-center">
-                    Developed by Ilham Yudantyo &copy; 2023
+                    Developed by Wakwik &copy; 2024
                 </div>
             </footer>
             {{-- END FOOTER --}}

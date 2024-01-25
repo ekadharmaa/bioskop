@@ -105,7 +105,7 @@
                         </div>
                     </div>
                     <div class="simple-footer">
-                        Developed by Ilham Yudantyo &copy; 2023
+                        Developed by Wakwik &copy; 2024
                     </div>
                 </div>
             </div>

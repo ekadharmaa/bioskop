@@ -56,7 +56,7 @@
                         Don't have an account? <a href="{{ route('register') }}">Create One</a>
                     </div>
                     <div class="simple-footer">
-                        Developed by Ilham Yudantyo &copy; 2023
+                        Developed by Wakwik &copy; 2024
                     </div>
                 </div>
             </div>
